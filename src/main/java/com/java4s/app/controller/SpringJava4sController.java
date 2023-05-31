@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SpringJava4sController {
 	@RequestMapping("/microserviceone")
 	public String welcome() {
-		return "Hello , I am from microserice one";
+		return "Hello , I am from microserice one git lab action";
 	}
 
 }
